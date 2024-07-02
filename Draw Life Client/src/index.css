@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.banner1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("https://i.ibb.co/Qbsgfv2/jr-korpa-XGXv-Yjst-Qbc-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    max-width: 1320px;
+    min-height: 550px;
+    border-radius: 24px;
+  }
+  .banner2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("https://i.ibb.co/GJhz8zC/khara-woods-KR84-Rp-MCb0w-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    max-width: 1320px;
+    min-height: 550px;
+    border-radius: 24px;
+  }
+  .banner3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("https://i.ibb.co/6vHBWdZ/birmingham-museums-trust-ze-a-Qiu3-ZFU-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    max-width: 1320px;
+    min-height: 550px;
+    border-radius: 24px;
+  }
+  
+  .footer {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("https://i.ibb.co/Gt3Vfph/neven-krcmarek-V4-EOZj7g1gw-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 350px;
+  }
