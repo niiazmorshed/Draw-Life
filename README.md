@@ -1,4 +1,4 @@
-Draw Life Live Link: https://assignment-10-7cf16.web.app/ 
+Draw Life Live Link: https://draw-life-23756.web.app/ 
 
 This project requires building a responsive and interactive Art and Craft Store website. It is mainly built on buying Painting and Drawing. It has user authentication system, CRUD operations for managing craft items, as well as few interactive and design features to improve user experience. 
 
