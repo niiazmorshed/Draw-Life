@@ -1,13 +1,35 @@
-Draw Life Live Link: https://draw-life-23756.web.app/ 
+# 🎨 Draw Life
 
-This project requires building a responsive and interactive Art and Craft Store website. It is mainly built on buying Painting and Drawing. It has user authentication system, CRUD operations for managing craft items, as well as few interactive and design features to improve user experience. 
+**Live Site:** [Visit Draw Life](https://draw-life-23756.web.app/)
 
-Properties that I have used in this projects:
-HTML, Bootstraps, Tailwind CSS, Javasscript, React JS, Node JS, MongoDB for (Database), Firebase for (Authentication)
+---
 
-Features:
-1) Craft Item Management
-2) Notifications and Error Handling
-3) User-Specific Craft List
-4) Dark/Light Theme Toggle:
-5) Real-Time Notifications and Feedback
+## 🖌️ About Draw Life
+
+**Draw Life** is a responsive and interactive Art & Craft Store, focused on buying and managing Paintings and Drawings. The platform offers user authentication, full CRUD capabilities for craft items, and several interactive UI features to enhance user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, Tailwind CSS, Bootstrap, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** Firebase  
+
+---
+
+## 🌟 Key Features
+
+1. **Craft Item Management** — Add, edit, and delete art listings  
+2. **User-Specific Craft List** — Users can view and manage their uploaded crafts  
+3. **Dark/Light Theme Toggle** — Seamless UI customization  
+4. **Notifications & Feedback** — Real-time alerts, error handling, and confirmations  
+5. **Secure Authentication** — User login system with Firebase
+
+---
+
+## 📬 Contact
+
+For any inquiries or collaborations:  
+**Email:** niazmorshedrafi@gmail.com
